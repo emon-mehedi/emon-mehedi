@@ -20,7 +20,6 @@ I'm Mehedi Emon, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh. I 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/c-61DAFB?style=for-the-badge&logo=c&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
 <p align="center">
