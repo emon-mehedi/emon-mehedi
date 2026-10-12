@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mehedi 👋
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[Project Name / Tech Stack]**
