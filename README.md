@@ -8,14 +8,6 @@ I'm Mehedi Emon, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh. I 
 <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=emon-mehedi&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
-
 ## :computer: Technologies
 
 <br>
@@ -37,4 +29,12 @@ I'm Mehedi Emon, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh. I 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 <br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-mehedi&show_icons=true&locale=en&layout=compact" alt="emon-mehedi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon-mehedi&show_icons=true&locale=en" alt="emon-mehedi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon-mehedi&" alt="emon-mehedi" /></p>
+
 
